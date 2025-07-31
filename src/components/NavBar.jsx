@@ -5,9 +5,9 @@ function NavBar() {
     <nav>
       <h1>Mi Tienda</h1>
       <ul>
-        <li>Inicio</li>
-        <li>Productos</li>
-        <li>Contacto</li>
+        <li><a href="">Inicio</a></li>
+        <li><a href="">Productos</a></li>
+        <li><a href="">Contacto</a></li>
       </ul>
       <CartWidget />
     </nav>
